@@ -23,6 +23,7 @@ Some handy links:
  * [Follow Kotlin on Twitter](https://twitter.com/kotlin)
  * [Public Slack channel](https://slack.kotlinlang.org/)
  * [TeamCity CI build](https://teamcity.jetbrains.com/project.html?tab=projectOverview&projectId=Kotlin)
+ *  * [آموزش کامل کاتلین به فارسی](https://avasam.ir/product/48/Kotlin-full-course-by-sam-nikzad)
 
 ## Kotlin Multiplatform capabilities
 
